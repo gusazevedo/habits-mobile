@@ -5,7 +5,7 @@ import {DaysView} from "../../components/DaysView";
 
 export function Home() {
     return (
-        <View className='flex-1 bg-background px-8 pt-24'>
+        <View className='flex-1 bg-black px-8 pt-24'>
             <Header/>
             <DaysView/>
             <HabitDay/>
