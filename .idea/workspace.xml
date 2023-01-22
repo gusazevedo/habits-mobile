@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aa5a0a2f-ca99-4a03-9635-1d8e39f99368" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
       <workItem from="1674417955709" duration="24000" />
       <workItem from="1674417989559" duration="59000" />
       <workItem from="1674418058983" duration="787000" />
-      <workItem from="1674419425593" duration="9105000" />
+      <workItem from="1674419425593" duration="9220000" />
     </task>
     <servers />
   </component>
