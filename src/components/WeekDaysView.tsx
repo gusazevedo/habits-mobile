@@ -2,7 +2,7 @@ import {daySize, week} from "../utils/constants";
 import {Text, View} from "react-native";
 import {generateYearDays} from "../utils/functions";
 
-export function DaysView() {
+export function WeekDaysView() {
     return (
         <View className='flex-row mt-6 mb-2'>
             {week.map((day, index) => (

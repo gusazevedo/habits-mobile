@@ -20,12 +20,9 @@ export function HabitDay() {
                         className='bg-zinc-900 rounded-lg border border-2 m-1 border-zinc-800'
                         style={{width: daySize, height: daySize}}
                         activeOpacity={0.7}
-                        onPress={
-                            () =>
-                                Haptics.notificationAsync(
-                                    Haptics.NotificationFeedbackType.Success
-                                )
-                        }
+                        onPressIn={() => Haptics.notificationAsync(
+                            Haptics.NotificationFeedbackType.Success
+                        )}
                     />
                 ))}
                 {amountDaysToFIll > 0 && Array

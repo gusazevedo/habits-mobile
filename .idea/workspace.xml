@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa5a0a2f-ca99-4a03-9635-1d8e39f99368" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DaysView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeekDaysView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HabitDay.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HabitDay.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/Home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Home/Home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +45,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "ts.external.directory.path": "/home/gustavo/www/ignite/habits/mobile/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -59,7 +66,8 @@
       <workItem from="1674417955709" duration="24000" />
       <workItem from="1674417989559" duration="59000" />
       <workItem from="1674418058983" duration="787000" />
-      <workItem from="1674419425593" duration="9291000" />
+      <workItem from="1674419425593" duration="9420000" />
+      <workItem from="1674583823209" duration="3385000" />
     </task>
     <servers />
   </component>
